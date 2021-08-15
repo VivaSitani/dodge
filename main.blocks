@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="9L;7YqwU/7=I(;cK7B9u">myImage</variable></variables><block type="pxt-on-start" id="_m1MNYN$9`WXj!Oefnzb" x="70" y="83"/><block type="device_forever" id="NWJ@RUG7u4PQzHO~dcU." x="413" y="69"/><block type="input_logo_event" id="1K(N]~s]F(P(N%n(h6Qa" x="382" y="199"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="?y2;g:4Ooq~:burMV5ID"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field></block></statement></block><block type="variables_get" id="+u}0Vm}w^IIc(RU?5#Au" disabled="true" x="276" y="380"><field name="VAR" id="9L;7YqwU/7=I(;cK7B9u">myImage</field></block></xml>
